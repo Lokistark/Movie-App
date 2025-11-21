@@ -7,7 +7,7 @@ import Watchlist from './pages/Watchlist';
 function App() {
   return (
     <MovieProvider>
-      <Router>
+      <Router basename="/Movie-App">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/watchlist" element={<Watchlist />} />
