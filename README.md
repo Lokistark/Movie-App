@@ -2,7 +2,7 @@
 
 A modern, dynamic movie discovery application built with **React** and **TailwindCSS**. Browse popular movies, search for your favorites, filter by genre, and manage your personal watchlist with ease.
 
-![Movie App Screenshot](/C:/Users/LOKI/.gemini/antigravity/brain/518d3294-7339-4e83-bf75-a8818d50e236/verify_app_load_1763697707328.webp)
+![Movie App Screenshot](https://github.com/Lokistark/Movie-App/blob/main/Screenshot%202025-11-21%20103128.png)
 
 ## ✨ Features
 
@@ -66,8 +66,8 @@ Contributions are welcome! Feel free to submit a Pull Request.
 
 Check out the project live and the source code:
 
-- [**📂 GitHub Repository**](https://github.com/yourusername/movie-app)
-- [**🚀 Live Demo on Vercel**](https://your-project-name.vercel.app)
+- [**📂 GitHub Repository**](https://lokistark.github.io/Movie-App/)
+- [**🚀 Live Demo on Vercel**](https://movie-app-black-rho-51.vercel.app/)
 
 ## 📄 License
 
