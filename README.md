@@ -35,7 +35,7 @@ Follow these steps to run the project locally on your machine.
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/movie-app.git
+    git clone https://github.com/Lokistark/Movie-App.git
     cd movie-app
     ```
 
@@ -66,7 +66,7 @@ Contributions are welcome! Feel free to submit a Pull Request.
 
 Check out the project live and the source code:
 
-- [**📂 GitHub Repository**](https://lokistark.github.io/Movie-App/)
+- [**📂 GitHub Live Site**](https://lokistark.github.io/Movie-App/)
 - [**🚀 Live Demo on Vercel**](https://movie-app-black-rho-51.vercel.app/)
 
 ## 📄 License
