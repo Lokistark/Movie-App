@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { MovieProvider } from './context/MovieContext';
 import Home from './pages/Home';
 import Watchlist from './pages/Watchlist';
@@ -7,7 +7,7 @@ import Watchlist from './pages/Watchlist';
 function App() {
   return (
     <MovieProvider>
-      <Router basename="/Movie-App">
+      <Router>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/watchlist" element={<Watchlist />} />
